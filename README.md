@@ -19,7 +19,7 @@ Tools: Git, GitHub, VS Code, mySQL workbench
 Areas of Interest: Web Development, Data Structures & Algorithms, Data Base and Management System, Problem-Solving
 
 📫 How to Reach Me:
-LinkedIn: Sarah Zafar
+LinkedIn: [Sarah Zafar](https://www.linkedin.com/in/sarah-zafar-393572307/)
 GitHub: Sarah-Zafar
 
 🌟 Fun Facts:
